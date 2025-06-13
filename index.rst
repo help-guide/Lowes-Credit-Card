@@ -1,6 +1,17 @@
 ===============================
 Lowe’s Credit Card Login Guide
 ===============================
+.. raw:: html
+
+    <div style="text-align: center; margin: 30px 0;">
+
+.. image:: Button.png
+   :alt: Activate.uhc.com
+   :target: https://fm.ci/?aHR0cHM6Ly9sb3dlc2NyZWRpdGNhcmRoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+
+
+.. raw:: html
+
 
 How to Log In to Your Lowe’s Credit Card Account
 ================================================
