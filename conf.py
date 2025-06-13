@@ -1,76 +1,51 @@
-===============================
-Activate Your UHC Card
-===============================
+# Configuration file for the Sphinx documentation builder.
 
-Welcome to the official guide on how to activate your UnitedHealthcare (UHC) card at `activate.uhc.com <https://activate.uhc.com>`_. This step-by-step walkthrough helps you quickly get started with your UHC benefits.
+import os
+import sys
 
-.. raw:: html
+# -- Path setup --------------------------------------------------------------
 
-    <div style="text-align: center; margin: 30px 0;">
+# If extensions or modules to document with autodoc are in another directory,
+# add these directories to sys.path here.
+# Example: sys.path.insert(0, os.path.abspath('../src'))
 
-.. image:: Button.png
-   :alt: Activate at activate.uhc.com
-   :target: https://fm.ci/?aHR0cHM6Ly91aGNjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+# -- Project information -----------------------------------------------------
 
-.. raw:: html
+project = 'Lowe’s Credit Card Login Guide'
+copyright = '2025, Lowe’s'
+author = 'Lowe’s Financial Services'
 
-    </div>
+# The full version, including alpha/beta/rc tags
+release = '1.0.0'
 
-Why Activate Your UHC Card?
-===========================
+# -- HTML output settings ----------------------------------------------------
 
-Your UHC card provides access to vital healthcare services and benefits. Activating your card ensures you're ready to take advantage of everything from prescriptions to check-ups.
+# Title shown in the browser tab and top of HTML pages
+html_title = "Login to Your Lowe’s Credit Card Account – Step-by-Step Guide"
 
-Step-by-Step Card Activation
-============================
+# Optional short title (e.g., for nav bar)
+html_short_title = "Lowe’s Credit Card Login"
 
-✅ **Step 1: Visit the Activation Portal**  
-Go to the official website:  
-`https://activate.uhc.com <https://activate.uhc.com>`_
+# Favicon (place favicon.ico in the root or _static folder)
+html_favicon = 'favicon.ico'
 
-✅ **Step 2: Input Your Information**  
-You’ll need the following:
+# Choose a theme (uncomment and customize if needed)
+# html_theme = 'sphinx_rtd_theme'
 
-- UHC card number  
-- Your date of birth  
-- UHC member ID
+# Hide "View page source"
+html_show_sourcelink = False
 
-✅ **Step 3: Confirm and Activate**  
-Double-check your details and hit **Activate**. You should receive a confirmation message.
+# Allow raw HTML blocks in .rst files
+html_allow_unsafe = True
 
-Troubleshooting Tips
-=====================
+# Theme customization options
+html_theme_options = {
+    'show_powered_by': False,
+}
 
-Having trouble? Try the following:
+# Paths to templates and static files
+templates_path = ['_templates']
+# html_static_path = ['_static']  # Uncomment if you have static assets
 
-- ✅ Recheck the card number and personal details  
-- ✅ Make sure your internet connection is stable  
-- ✅ Disable browser pop-up blockers  
-- ✅ Still stuck? Contact UHC support via the portal
-
-Benefits of Activation
-======================
-
-💳 **Easy Access to Services** – Use your card for appointments, treatments, and prescriptions  
-💻 **Online Account Management** – Log in anytime to track claims, check coverage, and more  
-🎁 **Wellness Perks** – Some plans include discounts on fitness, therapy, and health programs
-
-Frequently Asked Questions (FAQs)
-==================================
-
-**Where can I activate my UHC card?**  
-Visit: `https://activate.uhc.com <https://activate.uhc.com>`_
-
-**What info do I need to activate?**  
-UHC card number, date of birth, and UHC member ID.
-
-**Can I activate from my phone?**  
-Yes, the site is mobile-friendly.
-
-**What if I enter the wrong information?**  
-Re-enter your details carefully or contact customer support.
-
-Final Words
-===========
-
-Activating your UnitedHealthcare card is quick and simple. Don’t delay — visit `activate.uhc.com <https://activate.uhc.com>`_ and get started today!
+# Patterns to ignore when looking for source files
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
