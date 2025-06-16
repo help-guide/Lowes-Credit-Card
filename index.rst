@@ -13,6 +13,8 @@ Lowe’s Credit Card Login Guide
 .. raw:: html
 
 
+    </div>
+
 How to Log In to Your Lowe’s Credit Card Account
 ================================================
 
