@@ -32,20 +32,20 @@ It is an ideal tool for DIY homeowners and professional contractors.
 Step-by-Step Lowe’s Credit Card Login Process
 ---------------------------------------------
 
-✅ **Step 1: Visit the Official Login Portal**  
+**Step 1: Visit the Official Login Portal**  
 Go to:  
-`https://www.lowes.com/l/Credit/consumer-credit-center <https://www.lowes.com/l/Credit/consumer-credit-center>`_
+`https://www.lowes.com/l/Credit/consumer-credit-center <#>`_
 
-✅ **Step 2: Navigate to Synchrony Login Page**  
+**Step 2: Navigate to Synchrony Login Page**  
 Click on the link that redirects to Synchrony Bank's login system.
 
-✅ **Step 3: Enter Your Credentials**  
+**Step 3: Enter Your Credentials**  
 Provide your registered username and password.
 
-✅ **Step 4: Click “Secure Login”**  
+**Step 4: Click “Secure Login”**  
 Access your dashboard by clicking the login button.
 
-✅ **Step 5: Manage Your Account**  
+**Step 5: Manage Your Account**  
 Once logged in, you can:  
 - View recent transactions  
 - Pay your credit card bill  
@@ -56,10 +56,15 @@ Advantages of the Lowe’s Credit Card
 ------------------------------------
 
 💳 **5% Off Everyday Purchases** – Instant discount on eligible in-store and online items  
-💳 **Special Financing Options** – Deferred interest promotions on larger purchases  
-💳 **Exclusive Offers & Events** – Early access to sales and promotions  
-💳 **Online Account Management** – 24/7 secure access to your account  
-💳 **No Annual Fee** – Save more with no yearly maintenance cost  
+
+💳 **Special Financing Options** – Deferred interest promotions on larger purchases
+
+💳 **Exclusive Offers & Events** – Early access to sales and promotions
+
+💳 **Online Account Management** – 24/7 secure access to your account
+
+💳 **No Annual Fee** – Save more with no yearly maintenance cost 
+
 💳 **Credit Building Opportunity** – Regular use and timely payments can help improve credit score  
 
 My Experience with Lowe’s Credit Card Login
@@ -74,7 +79,7 @@ FAQs
 
 **1. Where can I log in to my Lowe’s Credit Card account?**  
 Visit the Lowe’s credit portal here:  
-`https://www.lowes.com/l/Credit/consumer-credit-center <https://www.lowes.com/l/Credit/consumer-credit-center>`_
+`https://www.lowes.com/l/Credit/consumer-credit-center <#>`_
 
 **2. I forgot my password—what should I do?**  
 Click “Forgot Password?” on the login page and follow the prompts to reset it securely.
