@@ -80,19 +80,24 @@ FAQs
 ====
 
 **1. Where can I log in to my Lowe’s Credit Card account?**  
+
 Visit the Lowe’s credit portal here:  
 `https://www.lowes.com/l/Credit/consumer-credit-center <#>`_
 
-**2. I forgot my password—what should I do?**  
+**2. I forgot my password—what should I do?** 
+
 Click “Forgot Password?” on the login page and follow the prompts to reset it securely.
 
-**3. Is there a mobile app for managing my Lowe’s Credit Card?**  
+**3. Is there a mobile app for managing my Lowe’s Credit Card?** 
+
 Yes! Download the **MySynchrony app** from the iOS or Android store to manage your card easily from your phone.
 
-**4. Can I set up autopay for my Lowe’s Credit Card?**  
+**4. Can I set up autopay for my Lowe’s Credit Card?**
+
 Absolutely. After logging in, navigate to the **Payments** section and select “Enroll in Autopay.”
 
 **5. Is the Lowe’s Credit Card login portal secure?**  
+
 Yes. Synchrony Bank uses advanced encryption and security protocols to protect your account and personal data.
 
 Final Thoughts
