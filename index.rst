@@ -7,7 +7,7 @@ Lowe’s Credit Card Login Guide
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://lowessyfcom-activate.github.io/ 
+   :target: https://pre.im/?IoNI0ht3zGaUYvLRv0WqKJnh91hbpK9uaNRM7sc7JuEvMAeg0SHOhCJCa9w9S4wdQbiVglmVjbOWoe 
 
 
 .. raw:: html
